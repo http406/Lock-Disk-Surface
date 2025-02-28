@@ -10,15 +10,7 @@ It is called a **"Lock Disk"** because of its **symmetry and closed structure**,
 ### **📜 The Parametric Equations**
 In your code, the surface is defined by the parametric equations:
 
-\[
-x = \frac{\sin(u)}{\sqrt{2} + \sin(v)}
-\]
-\[
-y = \frac{\cos(u)}{\sqrt{2} + \sin(v)}
-\]
-\[
-z = \frac{2 \cos(u)}{3 + \sqrt{2}}
-\]
+![Image](https://github.com/user-attachments/assets/68677abf-b22d-46bc-a157-5ae596f08adf)
 
 where:  
 - \( u \) and \( v \) range from \( 0 \) to \( 2\pi \).  
@@ -28,16 +20,8 @@ where:
 ---
 
 ### **🧠 Understanding Each Term**
-1. **\( x = \frac{\sin(u)}{\sqrt{2} + \sin(v)} \)**  
-   - The \( x \)-coordinate is controlled by \( \sin(u) \), which gives an oscillating pattern around the circle.
-   - The denominator \( \sqrt{2} + \sin(v) \) acts like a scaling factor, making the surface curve smoothly.
 
-2. **\( y = \frac{\cos(u)}{\sqrt{2} + \sin(v)} \)**  
-   - Similar to \( x \), but using \( \cos(u) \) instead of \( \sin(u) \), ensuring a circular pattern in the \( xy \)-plane.
-
-3. **\( z = \frac{2 \cos(u)}{3 + \sqrt{2}} \)**  
-   - This keeps the surface within a certain height range, controlled by \( \cos(u) \).
-   - The denominator \( 3 + \sqrt{2} \) ensures the surface doesn't stretch infinitely in the \( z \)-direction.
+![Image](https://github.com/user-attachments/assets/9efa3446-34b1-4e61-8817-f69dc5eb06d3)
 
 ---
 
