@@ -13,7 +13,7 @@ In your code, the surface is defined by the parametric equations:
 ![Image](https://github.com/user-attachments/assets/68677abf-b22d-46bc-a157-5ae596f08adf)
 
 where:  
-- \( u \) and \( v \) range from \( 0 \) to \( 2\pi \).  
+- \( u \) and \( v \) range from \( 0 \) to 2π.  
 - \( u \) determines the position around the ring.  
 - \( v \) influences the curvature and twisting effect.
 
